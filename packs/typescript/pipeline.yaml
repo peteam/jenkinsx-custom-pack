@@ -1,6 +1,0 @@
-extends:
-  file: ../javascript/pipeline.yaml
-agent:
-  label: jenkins-nodejs
-  container: nodejs
-
